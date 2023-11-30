@@ -16,7 +16,7 @@
       <Card.Title>{_quote.category}</Card.Title>
     </Card.Header>
     <Card.Content>
-      <p>
+      <p class="italic indent-4">
         {_quote.quote}
       </p>
     </Card.Content>
