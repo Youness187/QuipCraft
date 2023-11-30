@@ -11,6 +11,9 @@
 <main class="w-full max-w-6xl mx-auto">
   <!-- Header           create/login -->
   <Header />
+  <nav>
+    <h1 class="text-2xl px-2 font-bold text-center">Random Quotes</h1>
+  </nav>
   <main
     class="w-full gap-2 h-screen my-10 grid grid-cols-4 max-[900px]:grid-cols-2 max-[500px]:grid-cols-1 p-2"
   >
