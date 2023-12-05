@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@skeletonlabs/skeleton": "^2.5.1",
+    "@skeletonlabs/tw-plugin": "^0.2.4",
     "@sveltejs/adapter-auto": "^2.0.0",
     "@sveltejs/kit": "^1.27.4",
     "autoprefixer": "^10.4.14",
@@ -21,6 +23,7 @@
   "dependencies": {
     "bits-ui": "^0.9.8",
     "clsx": "^2.0.0",
+    "cmdk-sv": "^0.0.12",
     "jquery": "^3.7.1",
     "lucide-svelte": "^0.293.0",
     "tailwind-merge": "^2.0.0",
